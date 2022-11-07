@@ -4012,3 +4012,4 @@ first contributions - hanyang univ.
 - [Adarsh Remesh](https://github.com/adarshremesh)
 - [Mohd Adnan](https://github.com/mohdadnan786)
 - [Sophie Danneels](https://github.com/DanneelsSophie)
+- [Sophie Yu](https://github.com/fsfsfs-uyu)
