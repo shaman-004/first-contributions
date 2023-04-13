@@ -4005,11 +4005,11 @@ first contributions - hanyang univ.
 - [Yash Kumar Sharma](https://github.com/theyasharma).
 - [garry host](https://github.com/9xxxxxx)
 - [Alan Joshy](https://github.com/alanjoshymj)
-- 
-
+-
 - [siravijbb](https://github.com/siravijbb)
 - [ishita126jain](https://github.com/ishita126jain)
 - [Patrick](https://github.com/pjs32)
 - [CristiCode](https://github.com/CristiCode)
 - [Adarsh Remesh](https://github.com/adarshremesh)
 - [Mohd Adnan](https://github.com/mohdadnan786)
+- [Khushpreet Singh](https://github.com/khushpreet-007)
